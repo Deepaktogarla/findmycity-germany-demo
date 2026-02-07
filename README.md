@@ -10,7 +10,7 @@ The app is built and published under **HNT Digital Studio** and focuses on:
 - clear rent ranges for **Single / Couple / Family**,
 - simple filters for **budget** and **Bundesland**.
 
-> 🔒 The dataset and full Flutter source code are **not part of this repo**.  
+> 🔒 The production dataset and full Flutter source code are **not part of this repo**.  
 > This repository is a **public product + UI showcase** with screenshots and a high-level technical overview.
 
 
@@ -129,8 +129,8 @@ I’m responsible for:
 
 - **Product owner / original author:** Deepak Togarla  
 - **Current ownership:** HNT Digital Studio (private repo)  
-- **Release status:** Closed testing on Google Play; public rollout planned  
-- **Play Store link:** will be added here once the app is publicly available
+- **Release status:** Live on Google Play (production)  
+- **Play Store link:** [FindMyCity Germany on Google Play](https://play.google.com/store/apps/details?id=findmycity.com.findmycity_germany)  
 - **Email:** [deepaktogarla15@gmail.com](mailto:deepaktogarla15@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/deepak-togarla](https://www.linkedin.com/in/deepak-togarla)
 
